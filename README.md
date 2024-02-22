@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nitishatyagi13
+- 👋 Hi, I’m @nitisha tyagi
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Exploratary Data Analysis
 - 💞️ I’m looking to collaborate on Power Bi projects
