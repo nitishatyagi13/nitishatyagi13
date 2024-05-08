@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nitisha tyagi
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Exploratary Data Analysis
-- 💞️ I’m looking to collaborate on Power Bi projects
+- 💞️ I’m looking to collaborate on machine learning model
 - 📫 How to reach me at nitishatyagi1306@gmail.com
 - 😄 Pronouns: She/her
   
