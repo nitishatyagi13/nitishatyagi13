@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitisha tyagi
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Exploratary Data Analysis
+- 🌱 I’m currently learning Machine learning models
 - 💞️ I’m looking to collaborate on machine learning models
 - 📫 How to reach me at nitishatyagi1306@gmail.com
 - 😄 Pronouns: She/her
